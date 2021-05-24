@@ -9,6 +9,6 @@ Analyse de dumps mémoires et disques de personnes suspectées d'apartenir à un
   * Outils préinstallés : Volatility, Autopsy
 * Commandes Unix (cut, sed, awk, strings...)
 
-**Scénario :** Voir fichier Enoncé.pdf
+**Scénario :** Voir [Enoncé](Enoncé.pdf) 
 
-**Rapport :** Voir Rapport Forensic.pdf et Présentation_forensic.pptx
+**Rapport :** Voir [Rapport](Rapport&#32;Forensic.pdf) et [Présentation](Présentation_forensic.pptx)
