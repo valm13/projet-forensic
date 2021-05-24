@@ -1,0 +1,7 @@
+*** Match drafts in Discord logs ***
+{"\w+":{"\d+":{"\w+":\d+,"\w+":"[^"]+"}},"\w+":\d}
+
+*** Extract Timestamps from discord drafts ***
+{"time\w+":([0-9]{10})([0-9]{3})
+$1 = Timestamps
+$2 = Milliseconds
